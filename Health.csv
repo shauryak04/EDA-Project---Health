@@ -1,0 +1,6 @@
+PatientID,Age,Gender,HeartRate,BloodPressure,Temperature,Cholesterol,Diabetic,City
+ 1,45,Male,85,130/85,98.6,210,No,Delhi 
+2,50,Female,95,140/90,99.1,240,Yes,Mumbai 
+3,30,Female,72,120/70,98.4,180,No,Delhi 
+4,65,Male,110,160/100,100.2,300,Yes,Bangalore 
+5,40,Male,78,125/80,98.7,190,No,Pune
